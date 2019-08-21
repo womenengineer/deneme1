@@ -1,5 +1,4 @@
 //1’den 25’e kadar olan sayıları ekrana yazdıran C kodu//
-
 #include<stdio.h>
 #include<stdlib.h>
 int main()
